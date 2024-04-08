@@ -1,2 +1,3 @@
 # ep2eRules
 Rules Stuff for Eclipse Phase, mostly clarifications, QaA
+Decision regarding fabber watermarks: nanofabricated items are physically watermarked on an atomic scale. To read a watermark, you must have access to a fabrication unit large enough disassemble the material being read. You must then feed some quantity of the fabricated material to the fabber unit and succeed on a Program (Nanofabrication) task action with a timeframe of 24 hours. This action must be taken on the proceeds of an item after it has been broken down with a fabrication unit. The amount of real time it takes to disassemble the material and read a watermark is dependent on the complexity of the item, regardless of how much of the item is fed to the fabrication unit.
