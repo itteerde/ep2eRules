@@ -2,3 +2,8 @@
 
 - **Ruling:** Regarding fabber *watermarks*: nanofabricated items are physically watermarked on an atomic scale. To read a watermark, you must have access to a fabrication unit large enough disassemble the material being read. You must then feed some quantity of the fabricated material to the fabber unit and succeed on a Program (Nanofabrication) task action with a timeframe of 24 hours. This action must be taken on the proceeds of an item after it has been broken down with a fabrication unit. The amount of real time it takes to disassemble the material and read a watermark is dependent on the complexity of the item, regardless of how much of the item is fed to the fabrication unit.
   - `Cleaner Swarm` (pg. 345) destroys the signature/ delete the watermark, making this checking of the watermark impossible.
+
+
+## Resleeving
+
+- **[Question](https://github.com/itteerde/ep2eRules/issues/1):** As Infomorph, if not changing the kind of Infomorph, after Egocasting, do you have to do any of the Resleeving Tests: Integration Test (288) or Resleeving Stress Test (289) as you neither get a new Morph, nor have anything to adapt/catch up?
