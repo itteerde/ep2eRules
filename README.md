@@ -12,3 +12,4 @@
 ## Resleeving
 
 - **[Question](https://github.com/itteerde/ep2eRules/issues/1):** As `Infomorph`, if not changing the kind of `Infomorph`, after Egocasting, do you have to do any of the `Resleeving Tests`: `Integration Test` (288) or `Resleeving Stress Test` (289) as you neither get a new Morph, nor have anything to adapt/catch up?
+- **[Question](https://github.com/itteerde/ep2eRules/issues/3):** Does `Rebooting` (pg. **261**, 264) cause any `Resleeving Tests` (pg. 288) for `Infomorphs`?
