@@ -1,6 +1,6 @@
 ## Mesh
 
-- **[Question](https://github.com/itteerde/ep2eRules/issues/2):** Does everyone need an `Anonymizer` (pg. 315) subscription to use it, or can a crew buy one and route the crews hacking/communications meant to be anonymous through that crew member's `Mesh Inserts` (at least if in `VPN` with them)? 
+- **[Question](https://github.com/itteerde/ep2eRules/issues/2):** Does everyone need an `Anonymizer` (pg. 315) subscription to use it, or can a crew buy one and route the crew's hacking/communications meant to be anonymous through that crew member's `Mesh Inserts` (at least if in `VPN` with them)? 
 
 
 ## Nanofabbing
